@@ -144,10 +144,11 @@ Mit with:100%) */
 
 // ##########################################
 
-// @mixin flex-center-box{                
-//     display: flex;                       
-//     justify-content: space-between;       
-//     align-items: center;}
+@mixin flex-center-box {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
 
 
 // ##########################################
